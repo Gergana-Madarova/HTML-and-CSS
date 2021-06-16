@@ -1,0 +1,13 @@
+section h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+section article {
+    width: 850px;
+    margin: 10px auto;
+}
+
+section article header p {
+    font-style: italic;
+}
